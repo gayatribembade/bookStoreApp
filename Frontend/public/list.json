@@ -1,0 +1,110 @@
+[
+
+{
+    "id":1,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+},
+{
+    "id":2,
+    "name":"Comedy book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":3,
+    "name":"Study book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":4,
+    "name":"Travel book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Travelling Guide",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":5,
+    "name":"Romantic book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":6,
+    "name":"Muisc book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":7,
+    "name":"LoveStory book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"heroic",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":8,
+    "name":"Comic book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"comedy",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+
+
+},
+{
+    "id":9,
+    "name":"Mystery book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":0,
+    "category":"Free",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+},
+
+{
+    "id":10,
+    "name":"Trick book",
+    "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+    "price":10,
+    "category":"Funny",
+    "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+    },
+    {
+        "id":11,
+        "name":"Fun book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/group-books-pennant_25030-38687.jpg?t=st=1736486428~exp=1736490028~hmac=ec59a22fe459cfd8b25bbfc5d3818e2b477b318347c8a5861c778e416dac56ba&w=740"
+        }
+
+
+
+]
