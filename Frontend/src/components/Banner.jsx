@@ -8,14 +8,11 @@ function Banner() {
         <div className="w-full md:w-1/2 mt-12 md:mt-32 order-2 md:order-1 ">
           <div className="space-y-12">
             <h1 className="text-4xl font-bold">
-              Hello, welcomes here to learn something{" "}
-              <span className="text-blue-500">new everyday!!!</span>
+            Welcome to EduNest – Learn Something {" "}
+              <span className="text-blue-500">New Every Day!</span>
             </h1>
             <p className="text-xl ">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti
-              velit in illo eligendi voluptate rem provident quod ea esse quia.
-              Exercitationem eos ea dolorem natus eligendi totam fugit, at
-              incidunt!
+            EduNest is your go-to platform for free and premium online courses in various domains, including technology, business, and personal development.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
@@ -31,7 +28,7 @@ function Banner() {
             </label>
           </div>
           <button className="bg-pink-600 mt-6 btn btn-secondary">
-            Get Started
+          Join for Free
           </button>
         </div>
         <div className="w-full md:w-1/2  order-1">
